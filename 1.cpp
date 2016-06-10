@@ -117,7 +117,6 @@ int main()
 {
     payment paymentRecord;
     int choice = 0;
-    int choice2 = 0;
     int total = 0;
     int personCount = 0;
     int average = 0;
